@@ -1,3 +1,5 @@
+- This works on hicoria Debian 9 (https://hicoria.com)
+
 1. apt-get update
 2. mkdir PocketMine
 3. cd PocketMine
